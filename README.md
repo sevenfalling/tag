@@ -27,9 +27,19 @@ This repository will used to gather and distribute intelligence about the Bluegr
 * Fellowshipping with another church?     -  Churches should first check the visiting churches bona fides (if they're unknown to the host church).
      - Churches need to NEVER accept a group from a previously attacked church!
 
+# Background Information
+Please see https://github.com/theServants for information on the massacres and the genocide targeting Christians.
+
+Must Read:
+* [The Massacre of Mount Calvary Baptist Church](https://github.com/theServants/mission23/wiki/The-Massacre-of-Mount-Calvary-Baptist-Church)
+* [Bluegrass Genocide](https://github.com/theServants/mission23/wiki/The-Bluegrass-Genocide)
+  
 # Church Massacres
 * Mount Calvary Baptist Church on Todds Road in Lexington, KY
 * Lexington Bethel Baptist Church on Todds Road in Lexington, KY
 * Mount Zion Baptist Church in Central KY
 * House of God - Georgetown Road in Lexington, KY
 * House of God - Broadway in Lexington, KY
+
+  # Volunteers
+  Please see issues.
