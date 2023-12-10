@@ -1,6 +1,8 @@
 # About Church Intelligence Agency
 This repository will used to gather and distribute intelligence about the Bluegrass Genocide and the CIA's church massacres. We will keep track of churches whom are in the cross-hairs so that they can be proactive in the security of their congregations. I will be relying heavily on volunteers since my communications are suspect at best.
 
+Please see theServants on Github for more information. I had to create another login and this repo quickly. But its still backed up by His "Pray To Verify."
+
 # Current Church Alerts
 ## First Baptist Church Bracktown in Lexington, KY
 * Effective: 2023-12-10
