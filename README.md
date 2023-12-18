@@ -1,9 +1,9 @@
-# About Church Intelligence Agency
-This repository will used to gather and distribute intelligence about the Bluegrass Genocide and the CIA's church massacres. We will keep track of churches whom are in the cross-hairs so that they can be proactive in the security of their congregations. I will be relying heavily on volunteers since my communications are suspect at best.
+# About this Repo
+This repository will used to gather and distribute intelligence about the Bluegrass Genocide and the CIA's massacres in houses of worship. We will keep track of churches whom are in the cross-hairs so that they can be proactive in the security of their congregations. I will be relying heavily on volunteers since my communications are suspect at best.
 
 Please see [theServants on Github](https://github.com/theServants) for more information. I had to create another login and this repo quickly. But its still backed up by His "Pray To Verify."
 
-# Current Church Alerts
+# Current Alerts
 ## First Baptist Church Bracktown in Lexington, KY
 * Effective: 2023-12-10
 * Former pastor Rev. Garlington is Micah's deceased uncle.
@@ -12,7 +12,7 @@ Please see [theServants on Github](https://github.com/theServants) for more info
 * Effective:: 2023-12-10
 * Affiliated with Mount Calvary Baptist Church 
 
-# Intelligence
+# Current Intelligence
 ## Two Legacy COWS are in Lexington
 * Two of the Cellular Towers on Wheels are in Lexington, KY that are always parked at Legacy.
 * Black late-model Ford Explorer, has a thin blue line front tag, and Georgia plates. Small round antennas on the roof.
@@ -30,7 +30,7 @@ Please see [theServants on Github](https://github.com/theServants) for more info
      - Churches need to NEVER accept a group from a previously attacked church!
 
 # Background Information
-Please see https://github.com/theServants for information on the massacres and the genocide targeting Christians.
+Please see https://github.com/CreatorsMission23 for information on the massacres and the genocide targeting Christians.
 
 Must Read:
 * [The Massacre of Mount Calvary Baptist Church](https://github.com/theServants/mission23/wiki/The-Massacre-of-Mount-Calvary-Baptist-Church)
@@ -42,6 +42,7 @@ Must Read:
 * Mount Zion Baptist Church in Central KY
 * House of God - Georgetown Road in Lexington, KY
 * House of God - Broadway in Lexington, KY
+* First Baptist Church Bracktown - Lexington, KY
 
   # Volunteers
   Please see issues.
