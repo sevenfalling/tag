@@ -1,4 +1,2 @@
-# A Truly American Genocide
-This repository is focused on a truly American Genocide.  For the United States to be "one nation under God" any genocide that has a death toll compromised mostly of people killed in houses of worship that makes the genocide that started in the Bluegrass region of Kentucky as the result of a cover-up operation to hide the massacre of Mount Calvary Baptist Church in Lexington, KY by the Central Intelligence Agency (CIA) a truly American Genocide.
-
-This repository holds data related to intelligence gathered, information for religious groups and houses of worship to stay safe, ongoing CIA activities to further it, and US federal government activities to hide it.  The repository also holds discussions and wiki content.  We encourage everyone to clone it and fetch (or pull) it often.
+# The AIDS-cure Genocide
+This repository will used to gather and distribute intelligence about the The AIDS-cure Genocide started by Gilead Sciences which includes the CIA's massacres of houses of worship. We will keep track of religious groups whom are in the cross-hairs so that they can be proactive in the security of their members.
