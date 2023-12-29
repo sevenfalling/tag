@@ -1,10 +1,4 @@
 # The AIDS-cure Genocide
 This repository will used to gather and distribute intelligence about the The AIDS-cure Genocide started by Gilead Sciences after learning of a abnormal routine viral load test result for a known HIV+ patient, which indicated (and was confirmed by the N.I.H.) he could not possibly have HIV after years of being HIV+.
 
-The patient, Ken, was a friend of the Creator's servant, Micah, and had volunteered to prove a single-dose formula from the Creator.  The formula corrects an human-caused error in human male DNA that causes the immune system to not respond fully to infections.  According to the Creator, within 20-seconds after activation, every copy of HIV in Ken's body was dead.  The virus was completely and antibodies were completely removed from his body within minutes by the blood system and eliminated in his urine.  With a fully activated immune system Ken could not be infected again.
-
-After the TARGET_NOT_FOUND result, Ken was called into his doctor's office.  A second blood sample was obtained with a guard present, the guard escorted the vial to the National Institutes of Health where it was confirmed.  Ken was intensely interrogated.  The result: "TARGET_NOT_FOUND" which should not be confused with "Undetectable," TARGET_NOT_FOUND is an error that occurs when the protein that always accompany's HIV-1 and HIV-2 and is always detected in a blood sample of a HIV-positive individual even when declared "Undetectable."
-
-Unbeknownst to Ken, he signed his own death warrant, along with one for Micah when he responded: "My friend gave me something."  Gilead Sciences executed a contract for their deaths.  Ken was murdered.  Micah had been tasked by the Creator with proving the formula (to spawn user adoption) and then providing the formulation as a dietary supplement to the entire world for a maximum price of $5 a dose or free if an individual could not afford a dose the pricing was set by the Creator. 
-
-The formulation was the first task for Micah on the Creator's mission number 23 for life on Earth.
+For more information see the [TAG wiki](https://github.com/sevenfalling/tag/wiki).
